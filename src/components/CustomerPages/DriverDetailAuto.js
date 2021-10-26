@@ -6,7 +6,7 @@ export default class DriverDetailAuto extends Component {
     return (
       <div>
         <div class="jumbotron">
-          /*new brach crate*/
+         
           <h1 class="display-4">Driver For Your Drive</h1>
           <p class="lead">Driver Information As Per Auto Driver....</p>
           <hr class="my-4"></hr>
